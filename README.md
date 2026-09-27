@@ -1,7 +1,7 @@
 ## Hi，I’m xc. 👋
 
 <!--
-**4xcxzy/4xcxzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**4xcxzy/4xcxzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 -  I’m preparing for data analysis & fintech study.
 -  Feel free to check out my projects. I’m glad to share them and welcome your thoughts.
 
--->"Keep learning and practice more."
+>  "Keep learning and practice more."
