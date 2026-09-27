@@ -1,9 +1,9 @@
 ## Hi，I’m xc. 👋
 
 <!--
-**4xcxzy/4xcxzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**4xcxzy/4xcxzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 -  I’m currently learning programming languages and web development.
 -  I'm practicing coding and exploring the online world.
